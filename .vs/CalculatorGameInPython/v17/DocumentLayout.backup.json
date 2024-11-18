@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NEXT Speed\\source\\repos\\CalculatorGameInPython\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7485CC-F954-491A-BCF0-BA9A3CA87F52}|CalculatorGameInPython.pyproj|C:\\Users\\NEXT Speed\\source\\repos\\CalculatorGameInPython\\CalculatorGameInPython.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BD7485CC-F954-491A-BCF0-BA9A3CA87F52}|CalculatorGameInPython.pyproj|solutionrelative:CalculatorGameInPython.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorGameInPython.py",
+              "DocumentMoniker": "C:\\Users\\NEXT Speed\\source\\repos\\CalculatorGameInPython\\CalculatorGameInPython.py",
+              "RelativeDocumentMoniker": "CalculatorGameInPython.py",
+              "ToolTip": "C:\\Users\\NEXT Speed\\source\\repos\\CalculatorGameInPython\\CalculatorGameInPython.py",
+              "RelativeToolTip": "CalculatorGameInPython.py",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-11-18T13:39:30.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
